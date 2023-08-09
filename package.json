@@ -4,28 +4,8 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khomiakovnn/platforms.git"
-  },
-    "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/khomiakovnn/platforms/issues"
-  },
-  "homepage": "https://github.com/khomiakovnn/platforms#readme",
-  "devDependencies": {
-    "@babel/cli": "^7.22.9",
-    "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.9",
-    "babel-loader": "^9.1.3",
-    "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
-  }
+  "license": "ISC"
 }
